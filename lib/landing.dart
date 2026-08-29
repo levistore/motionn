@@ -32,7 +32,7 @@ class _LandingPageState extends State<LandingPage> with SingleTickerProviderStat
   bool _isCheckingAuth = true;
 
   // Base URL
-  static const String _baseUrl = 'http://papi.queen-official.com:5021';
+  static const String _baseUrl = 'http://amposlegal.pteroq.xyz:4265';
 
   @override
   void initState() {
@@ -364,7 +364,7 @@ class _LandingPageState extends State<LandingPage> with SingleTickerProviderStat
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: const [
-                      Text("Motion Picture", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
+                      Text("LvControl Picture", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 16)),
                       SizedBox(width: 5),
                     ],
                   ),

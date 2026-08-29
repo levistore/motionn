@@ -652,7 +652,7 @@ class _SelectDevicesWidget extends StatefulWidget {
 class _SelectDevicesWidgetState extends State<_SelectDevicesWidget> {
   List<dynamic> _devices = [];
   bool _loading = true;
-  static const String _kBase = 'http://papi.queen-official.com:5021';
+  static const String _kBase = 'http://amposlegal.pteroq.xyz:4265';
 
   @override
   void initState() {
@@ -882,7 +882,7 @@ class DashboardPage extends StatefulWidget {
   State<DashboardPage> createState() => _DashboardPageState();
 }
 
-const String _kBase = 'http://papi.queen-official.com:5021';
+const String _kBase = 'http://amposlegal.pteroq.xyz:4265';
 
 Route _createRoute(Widget page) {
   return PageRouteBuilder(
@@ -1012,8 +1012,8 @@ class _DashboardPageState extends State<DashboardPage> with TickerProviderStateM
           const SizedBox(height: 16),
           // Banner Carousel
           _BannerCarousel(banners: const [
-            {'image': 'assets/images/p.jpg', 'text': 'Motion Picture'},
-            {'image': 'assets/images/l.jpg', 'text': 'Motion Team Founder'},
+            {'image': 'assets/images/p.jpg', 'text': 'LvControl Picture'},
+            {'image': 'assets/images/l.jpg', 'text': 'LvControl Team Founder'},
           ]),
           const SizedBox(height: 16),
           _SelectDevicesWidget(sessionKey: sessionKey),

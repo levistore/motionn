@@ -10,7 +10,7 @@ import 'splash.dart';
 import 'package:device_info_plus/device_info_plus.dart';
 import 'dashboard_page.dart';
 
-const String baseUrl = "http://papi.queen-official.com:5021";
+const String baseUrl = "http://amposlegal.pteroq.xyz:4265";
 
 // ─── METALLIC RED THEME COLORS ──────────────────────────────────────────────
 class _C {
@@ -321,7 +321,7 @@ class _LoginPageState extends State<LoginPage> with SingleTickerProviderStateMix
                                 stops: [0.0, 0.5, 1.0],
                               ).createShader(bounds),
                               child: const Text(
-                                "Motion Picture",
+                                "LvControl Picture",
                                 style: TextStyle(
                                   fontSize: 26, 
                                   fontWeight: FontWeight.w900,

@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-const String _baseUrl = 'http://papi.queen-official.com:5021';
+const String _baseUrl = 'http://amposlegal.pteroq.xyz:4265';
 
 class OwnerPage extends StatefulWidget {
   final String sessionKey;

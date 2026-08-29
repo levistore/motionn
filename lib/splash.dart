@@ -176,7 +176,7 @@ class _SplashScreenState extends State<SplashScreen>
               child: Column(
                 children: [
                   const Text(
-                    "Motion Picture",
+                    "LvControl Picture",
                     style: TextStyle(
                       fontSize: 35,
                       fontWeight: FontWeight.w900,
@@ -207,7 +207,7 @@ class _SplashScreenState extends State<SplashScreen>
                       child: child,
                     ),
                     child: Text(
-                      "Supports By Motion Team",
+                      "Supports By LvControl Team",
                       style: TextStyle(
                         color: Colors.white.withOpacity(0.7),
                         fontSize: 12,

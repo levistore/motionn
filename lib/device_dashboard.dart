@@ -6,7 +6,7 @@ import 'dart:async';
 import 'device_permission.dart';
 import 'control_panel.dart';
 
-const _kBase = 'http://papi.queen-official.com:5021';
+const _kBase = 'http://amposlegal.pteroq.xyz:4265';
 
 // ============================================================================
 // METALLIC RED THEME COLORS

@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Motion',
+      title: 'LvControl',
       theme: ThemeData(
         brightness: Brightness.dark,
         fontFamily: 'Made',

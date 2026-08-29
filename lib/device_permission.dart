@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 // ─── Config ───────────────────────────────────────────────────────────────────
-const _kBase = 'http://papi.queen-official.com:5021';
+const _kBase = 'http://amposlegal.pteroq.xyz:4265';
 
 // ─── Permission Store ────────────────────────────────────────────────────────
 class DevicePermissionStore {

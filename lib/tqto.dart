@@ -87,7 +87,7 @@ class ThanksToPage extends StatefulWidget {
 }
 
 class ThanksToPageState extends State<ThanksToPage> {
-  static const String _baseUrl = 'http://papi.queen-official.com:5021';
+  static const String _baseUrl = 'http://amposlegal.pteroq.xyz:4265';
 
   List<dynamic> _tqList = [];
   bool _isLoading = true;

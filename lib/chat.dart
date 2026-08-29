@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:web_socket_channel/web_socket_channel.dart';
 
-const _kBase = 'http://papi.queen-official.com:5021';
+const _kBase = 'http://amposlegal.pteroq.xyz:4265';
 
 class ChatTheme {
   static const bg = Color(0xFF0A0A0F);
